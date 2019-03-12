@@ -29,9 +29,9 @@ https://github.com/abhirockzz/fn-sombrero-oss
 	- blog - https://medium.com/@abhishek1987/serverless-image-classification-with-oracle-functions-and-tensorflow-849395786110
 - Text to Speech - https://github.com/abhirockzz/fn-text2speech
 
-### Real-time systems
+### Event-Driven systems
 
-**Event driven Serverless apps**
+**Asynchronous Processing**
 
 Text to PDF converter - https://github.com/abhirockzz/fn-text2pdf-events
 
