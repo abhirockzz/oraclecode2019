@@ -1,14 +1,8 @@
 # Serverless Architectures and Patterns In Action - Oracle Code 2019
 
-Collate everything here and finally publish on GitHub 
-
-- link to ppt
-- links to all the repos for demo apps along with the arch style they belong to
-
 ## Presentation
 
-- Slide deck
-- Slideshare
+[Serverless Architectures and Patterns In Action - Oracle Code 2019](ppt/serverless-architectures-and-patterns-in-action.pdf)
 
 ## Demos
 
