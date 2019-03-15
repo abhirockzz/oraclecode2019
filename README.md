@@ -12,7 +12,7 @@
 
 https://github.com/abhirockzz/fn-redis-todoapp
 
-**Serveless website**
+**Serveless Wep App**
 
 https://github.com/abhirockzz/fn-sombrero-oss
 
