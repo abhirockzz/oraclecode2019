@@ -37,7 +37,9 @@ Kafka -> Oracle Functions via Kafka Connect - https://github.com/abhirockzz/fn-k
 
 **Webhooks**
 
-- `funcy`, serverless function for a trimmed down version for `Giphy Slack App` - https://github.com/abhirockzz/fn-funcy
+- `funcy`, serverless function for a trimmed down version for `Giphy Slack App`
+	- code - https://github.com/abhirockzz/fn-funcy
+	- blog - https://medium.com/fnproject/funcy-a-serverless-slack-app-using-fn-28ddbb2596d2
 - Serverless function to automatically tweet new GitHub release details
 	- code - https://github.com/abhirockzz/fn-github-webhook-twitter
 	- blog - https://medium.com/fnproject/function-al-webhooks-with-fn-b7171a0fd004
